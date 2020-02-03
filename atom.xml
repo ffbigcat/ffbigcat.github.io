@@ -2,16 +2,266 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2019-12-29T13:32:30.723Z</updated>
+    <updated>2020-02-03T14:18:53.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
     <subtitle>怕什么真理无穷，进一寸有一寸的欢喜</subtitle>
     <logo>https://ffbigcat.github.io/images/avatar.png</logo>
     <icon>https://ffbigcat.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, ffbigcat&apos;s blog</rights>
+    <rights>All rights reserved 2020, ffbigcat&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[梁宁产品思维30讲-学习笔记]]></title>
+        <title type="html"><![CDATA[生物信息自学资料]]></title>
+        <id>https://ffbigcat.github.io/post/sheng-wu-xin-xi-zi-xue-zi-liao</id>
+        <link href="https://ffbigcat.github.io/post/sheng-wu-xin-xi-zi-xue-zi-liao">
+        </link>
+        <updated>2020-02-03T13:05:58.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="生信相关博客"><strong>生信相关博客</strong></h3>
+<p><a href="http://blog.qiubio.com:8080/">糗世界</a>：Circos教程、R/Bioconductor、序列比对与NGS<br>
+<a href="http://blog.csdn.net/u014801157">R语言与生物信息学</a><br>
+<a href="http://boyun.sh.cn/bio/">博耘生物</a><br>
+<a href="http://www.zilhua.com/">生物日志|鸣一道</a>：生物信息分析教程、R画图<br>
+<a href="http://yixf.name/">Yixf's blog</a><br>
+<a href="http://www.bio-info-trainee.com/">生信菜鸟团</a><br>
+<a href="http://www.bio-info-club.com/">生信客部落</a><br>
+<a href="http://qinqianshan.com/">Sam's Note</a><br>
+<a href="http://www.iwhgao.com/">rabbit gao's blog</a>：生物信息学基础知识，主要包括Linux常用操作命令、基本数理统计知识、Perl语言/R语言/Python语言编程、生物信息学分析规范以及其它生物信息学专题等<br>
+<a href="http://tiramisutes.github.io/">hope博客</a><br>
+<a href="http://guangchuangyu.github.io/">Y叔/余光创博客</a></p>
+<h3 id="生信相关网站"><strong>生信相关网站</strong></h3>
+<p><a href="http://www.knowgene.com/">知因</a>：华大基因旗下有关基因话题的问答社区<br>
+<a href="https://www.plob.org/">Public Library of Bioinformatics</a>：生物信息相关领域“图书馆”，<a href="http://www.bioask.net/">BioASK</a>是旗下问答社区<br>
+<a href="https://www.biostars.org/">biostars</a>：国外生信社区<br>
+<a href="http://www.biotrainee.com/">生信技能树</a>：生信论坛<br>
+<a href="https://omictools.com/">OMICtools</a>：生信软件工具<br>
+<a href="https://www.altmetric.com/">Altmetric</a>：文献的社会影响力指标<br>
+<a href="https://github.com/hbctraining/main">哈佛生信教程</a><br>
+<a href="http://www.biotrainee.com:8081/jmzeng/book/basic/">生物信息学最佳实践–基础篇</a><br>
+<a href="https://www.bioinformatics.babraham.ac.uk/training.html">babraham training</a><br>
+<a href="https://bpa-csiro-workshops.github.io/">BPA-CSIRO workshops</a><br>
+<a href="https://biohpc.cornell.edu/workshops.aspx">康奈尔生信教程</a><br>
+<a href="https://edu.isb-sib.ch/course/index.php?categoryid=5">瑞士生信研究所教程</a><br>
+<a href="https://qcb.ucla.edu/collaboratory-2/workshops/">UCLA生信教程</a></p>
+<h3 id="微信公众号"><strong>微信公众号</strong></h3>
+<ul>
+<li>测序中国：基因行业</li>
+<li>华大基因学院xomics：基因科学领域前沿</li>
+<li>陈巍学基因：基因组学知识、临床分子诊断的技术进展</li>
+<li>基因鑫说：基因相关领域的思考和观点</li>
+<li>生信人：生物信息学知识</li>
+<li>biobabble：生物信息学、进化分析、R语言、C++和可视化</li>
+<li>基迪奥生物：生信软件使用技巧</li>
+<li>精准医疗动态：精准医疗国内外最新发展动态</li>
+<li>科研动力：EndNote使用方法、科研实验方法、SCI论文写作方法和投稿经验、科研软件和科研资源</li>
+<li>生信技能树</li>
+<li>生信媛</li>
+</ul>
+<h3 id="python语言相关"><strong>python语言相关</strong></h3>
+<h4 id="网站">网站</h4>
+<p><a href="http://rosalind.info/problems/locations/">Rosalind</a>：生信刷题</p>
+<h4 id="书">书</h4>
+<ul>
+<li>Learn Python the Hard Way - Zed Shaw 《笨方法学python》</li>
+<li>《python基础教程》</li>
+<li>Learning Python - Mark Lutz 《python学习手册》</li>
+</ul>
+<h4 id="公开课">公开课</h4>
+<ul>
+<li>Programming for Everybody (Getting Started with Python) - 密歇根大学</li>
+<li>Introduction to Computer Science and Programming Using Python - MIT</li>
+</ul>
+<h3 id="r语言相关"><strong>R语言相关</strong></h3>
+<h4 id="书-2">书</h4>
+<ul>
+<li>《R语言初学者指南》</li>
+<li>《R语言实战》</li>
+<li>《ggplot2:数据分析与图形艺术》</li>
+</ul>
+<h3 id="博客相关"><strong>博客相关</strong></h3>
+<h4 id="markdown">Markdown</h4>
+<p><a href="http://www.jianshu.com/p/q81RER">献给写作者的Markdown新手指南</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笔记-梁宁-增长思维30讲]]></title>
+        <id>https://ffbigcat.github.io/post/bi-ji-liang-ning-zeng-chang-si-wei-30-jiang</id>
+        <link href="https://ffbigcat.github.io/post/bi-ji-liang-ning-zeng-chang-si-wei-30-jiang">
+        </link>
+        <updated>2020-02-03T12:58:10.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="00-发刊词">00 发刊词</h3>
+<p>增长能力，就是持续作出正确决定的能力</p>
+<h2 id="第一模块-地图">第一模块 地图</h2>
+<h3 id="01-在生死进退中增长">01 在生死进退中增长</h3>
+<p>企业增长率低于GDP增长率就是维持；有GDP增长率的2倍属于惯性增长；而爆发式增长能超过GDP增长率的4倍<br>
+打破界限，即是增长<br>
+企业的死，以主导者失去战斗意识为结束。但如果注定失败，与其苦苦死撑，不如保存核心资产主动撤退，“善败者不亡”</p>
+<h3 id="02-从草莽到腰部玩家">02 从草莽到腰部玩家</h3>
+<p>草莽企业，看到一个机会就往里冲，速生速死<br>
+腰部企业，在一个系统中投入资源，牢牢运营了一个生态位<br>
+生态系统是丰饶还是贫瘠，直接决定了腰部企业的发展<br>
+e.g. 云海肴、格瓦拉</p>
+<h3 id="03-头部玩家终结一场战争">03 头部玩家：终结一场战争</h3>
+<p>头部企业考虑的是，我如何抢到制高点，终结这场战争，核心动作是“收”<br>
+不同的动机，就需要匹配不同的资源来入场，入局的打法也不一样<br>
+分散市场，成为头部的机会是开创一个新品类<br>
+e.g. 千团大战、手机行业</p>
+<h3 id="04-顶级玩家跨越周期">04 顶级玩家：跨越周期</h3>
+<p>你的信息环境和决策模型，决定了你作决定的能力<br>
+顶级企业关注的是，在下一个周期里，谁能借势而起，成为千亿美金级超大公司，而谁会被周期消灭<br>
+e.g. 阿里<br>
+马云：信息发散，负责信息的广度<br>
+曾鸣：基于未来做战略收敛<br>
+彭蕾：组织发展，基于组织能力和价值做收敛<br>
+张勇：基于业务和财务等方面做判断，并把决策落地</p>
+<h3 id="05-你的认知地图你的战场">05 你的认知地图，你的战场</h3>
+<p>草莽企业有机会观，核心动作是冲<br>
+腰部企业有系统观，核心动作是投入资源，运营生态位<br>
+头部企业有世界版图，核心动作是收，站在制高点，终结一场战争<br>
+顶级企业有历史观，核心能力是跨越周期</p>
+<h2 id="第二模块-机会">第二模块 机会</h2>
+<h3 id="06-发现机会发散与收敛">06 发现机会：发散与收敛</h3>
+<ol>
+<li>发散：穷举，要定义讨论的范畴和颗粒度，尽可能多地列举</li>
+<li>收敛：按线索把颗粒串起来</li>
+<li>收敛：机会paper，回答三个问题：痛点、本质和解决方案</li>
+<li>收敛：客观校验，让真实的用户直接反馈</li>
+</ol>
+<h3 id="07-抓住机会从0到1的破局点">07 抓住机会：从0到1的破局点</h3>
+<p>破局点有三个特性：</p>
+<ol>
+<li>广谱，尽可能多的人需要</li>
+<li>高频，高频业务能带动低频业务</li>
+<li>体验可控，初始团队就能把控用户体验</li>
+</ol>
+<h3 id="08-大机会知识结构与精神结构">08 大机会：知识结构与精神结构</h3>
+<p>年龄是财富，挫折也是财富<br>
+靠什么能看到大机会？用对照的方式，靠你的知识结构，你的认知维度去发现。难就难在，你的知识框架对不对，你的认知维度够不够高。</p>
+<h3 id="09-爆品机会爆品公式与品牌护城河">09 爆品机会：爆品公式与品牌护城河</h3>
+<p>爆品公式：爆品机会=技术/供应链创新×爆发品类×新流量<br>
+什么才是真正的品牌？</p>
+<ol>
+<li>用户接受它卖的贵</li>
+<li>卖场愿意为了引入它给折扣</li>
+<li>很多人愿意举着它自拍</li>
+</ol>
+<h3 id="10-跨越周期你的基因你的机会">10 跨越周期：你的基因，你的机会</h3>
+<p>在增长瓶颈面前，过去的巨头一般都有两个选择，一个是现金牛，一个是未来。放手现金牛不容易，但选择未来才有生机。<br>
+企业的样子是由用户需求、自身基因和限制性条件，这三个因素形成的<br>
+第二曲线的跨越，不是随便抓一个新机会。而是在新的限制性条件里，从自身基因出发，继续回答恒定的用户需求。</p>
+<h2 id="第三模块-模式">第三模块 模式</h2>
+<h3 id="11-选择模式目标不同要素不同">11 选择模式：目标不同，要素不同</h3>
+<p>任何一个系统都包括三个构成要素：目标、要素和连接<br>
+你做这件事的目标，决定了你的模式。目标坚定，模式清晰，执行坚决，才能够让你继续增长下去</p>
+<h3 id="12-设计模式设计增强回路和调节回路">12 设计模式：设计增强回路和调节回路</h3>
+<p>连接有四种：因果链、增强回路、调节回路、滞后反馈<br>
+设计模式不能只看合理的因果链和增强回路，不要忽视永远存在的调节回路和滞后反馈<br>
+最核心的资源——当事人的心理能量<br>
+要想持续一个循环，唯一可以依靠的，是让自己进入一个稳定的模式，让核心资源通过增强回路，能得到持续补充<br>
+e.g. 减肥</p>
+<h3 id="13-设计以用户增长为核心的模式">13 设计以用户增长为核心的模式</h3>
+<p>一个产品不仅要做以用户为中心的体验设计，交付核心价值，还要设计以增长为中心的模式设计<br>
+基于新的基础设施，可以做出新的增长模式与护城河<br>
+社区人群如果“三近一反”，这个社区就会热起来，也就是地域相近、年龄相近、兴趣相近、性别相反<br>
+e.g. keep</p>
+<h3 id="14-从连接器模式到整合模式">14 从连接器模式到整合模式</h3>
+<p>连接器模式的好处是很轻，缺点是容易被击穿，抗风险能力差。大流量平台中的小连接器，很容易被流量平台击穿。<br>
+密度影响心智，看得多了就容易去选择<br>
+e.g. 去哪儿、OYO、亚朵</p>
+<h3 id="15-流量模式和产业中台模式">15 流量模式和产业中台模式</h3>
+<p>平台有三个特征：动态不平衡；用户要能产生网络效应；用户之间有需要被撮合的需求<br>
+S2B2C将是未来几年最重要的商业模式，系统公司可以整合小商家，提供数据服务，一起服务消费者<br>
+e.g. 新荣记、BAT、美团</p>
+<h2 id="模块四-组织">模块四 组织</h2>
+<h3 id="16-组织承接机会的能力">16 组织：承接机会的能力</h3>
+<p>管理和组织：管理强调规则，组织强调人的关系<br>
+三流组织，共同规则<br>
+二流组织，共同利益<br>
+一流组织，共同信仰<br>
+顶级组织，至情至性<br>
+e.g.淘金热、联想</p>
+<h3 id="17-建立组织人际容纳度">17 建立组织：人际容纳度</h3>
+<p>商业就是看到机会，组织出体量<br>
+创始人构建人际关系的能力，也就是组织能力，直接限制了一个公司能做多大的体量，切下多大的机会。而创始人的组织能力，第一条就是人际容纳度，你能与多少人进入深度关系，你能容纳什么样的人<br>
+关系的四个阶段<br>
+理想期：看到对方符合预期的一面<br>
+冲突期：指责对方和自责，或者转向逃避<br>
+整合期：一起评估差距，在关系中成长<br>
+协同创作期：互相接受对方的短板，一起去面对不确定</p>
+<h3 id="18-权力设计企业信息流">18 权力设计：企业信息流</h3>
+<p>权力的三个指标：<br>
+信息流<br>
+利益链<br>
+调动资源的能力<br>
+本质上，权力是能够不断地作出正确决定，强化信任，而决策者的信息环境至关重要<br>
+我们要有意识的地运营自己的信息环境<br>
+e.g. 麦当劳</p>
+<h3 id="19-创新机制字节跳动的创新飞轮">19 创新机制：字节跳动的创新飞轮</h3>
+<p>鼓励创新的组织，应该尽最大可能让信息透明，尽量让多元声音发声，防止公司的信息环境扭曲<br>
+e.g. 字节跳动 入职筛人、信息环境、协同网络</p>
+<h3 id="20-组织成长的五个阶段">20 组织成长的五个阶段</h3>
+<p>组织是人的组织，而不是把人简单地当工具<br>
+家庭阶段：靠自己，管人管缘分<br>
+部落阶段：管理战斗力<br>
+村庄阶段：管理资源、规则、节奏<br>
+城市阶段：管理基础设施和秩序<br>
+国家阶段：战略和文化</p>
+<h2 id="模块五-借势">模块五 借势</h2>
+<h3 id="21-战略支点与战略杠杆">21 战略支点与战略杠杆</h3>
+<p>撬动杠杆就是你有意识地使用某种自由度，带来资源的连锁反应<br>
+支点是你的初心，是企业真实的使命<br>
+战略指北针和战略支点相辅相成，是瞄准工具，用来衡量每个动作战略价值的准星</p>
+<h3 id="22-共生让渡自我共享资源">22 共生：让渡自我，共享资源</h3>
+<p>价值观判断小游戏：<br>
+写下你最钦佩的三个人<br>
+写出每个人你最欣赏的三点特质<br>
+给所有的特质排序<br>
+价值观列表 每年会变<br>
+奥德赛时期</p>
+<h3 id="23-结盟利益相关人地图">23 结盟：利益相关人地图</h3>
+<p>利益相关人地图，是为了厘清所有角色的利益关系，看到风险，看到抓手<br>
+在一件长期的事情面前，你得让对你影响力大的人，在其中有长期利益</p>
+<h3 id="24-踩中风口闪电式扩张">24 踩中风口：闪电式扩张</h3>
+<p>《闪电式扩张》<br>
+海盗阶段用野蛮人法则：踩中风口，面对不确定的市场，优先考虑的是速度，而不是效率<br>
+海军陆战队阶段，不惜一切代价抢滩，速度第一<br>
+军队阶段，闪电式扩张停止，讲求效率<br>
+警察阶段，维护秩序，保证效率</p>
+<h3 id="25-跨越周期进化">25 跨越周期：进化</h3>
+<p>在跨越周期的大问题面前，怕不做动作，也怕乱做工作。周期不是此刻解决的问题，而是需要长期、持续为跨越周期作准备<br>
+我们缺的是把中长期的基础科研储备，与中短期市场机会协同起来的战略人才与产业机制<br>
+模块五 征途</p>
+<h3 id="26-增长台阶从0到10000">26 增长台阶：从0到10000</h3>
+<p>增长的五个台阶对决策者的要求：<br>
+家庭阶段，从0到1要靠破局点<br>
+部落阶段，从1到10要靠杠杆<br>
+村庄阶段，从10到100需要靠资源的放量<br>
+城市阶段，从100到1000要能够分形<br>
+国家阶段，从1000到10000要能够扛得起巨大的苦难<br>
+决策者、工具箱、利益链、文化场</p>
+<h3 id="27-用户深度从流量到共同体">27 用户深度：从流量到共同体</h3>
+<p>用户关系从浅到深的四个深度：<br>
+流量要资源<br>
+用户要感受<br>
+会员要归属<br>
+共同体要责任</p>
+<h3 id="28-市场广度从中国到全世界">28 市场广度：从中国到全世界</h3>
+<p>出海寻找机会的三个阶段：<br>
+国际化企业，销售和销售配套业务的全球化<br>
+跨国公司，有海外分部，本地化程度高，反应快<br>
+全球化企业，销售、运营、研发体系的全球化</p>
+<h3 id="29-我们在三浪并发的时代">29 我们在三浪并发的时代</h3>
+<p>1.0 消费升级，抢货<br>
+2.0 互联网革命，抢流量，流量可以整合货<br>
+3.0 智能革命，抢数据，数据可以整合流量<br>
+e.g.茑屋书店、瓜子二手车</p>
+<h3 id="30-你的增长底牌你的人生底色">30 你的增长底牌，你的人生底色</h3>
+<p>增长就是建立新的连接<br>
+增长底牌，是一个会一直给你源泉的关系，一个不会被命运剥夺的角色<br>
+增长思维的核心框架：地图、道路、底牌</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笔记-梁宁-产品思维30讲]]></title>
         <id>https://ffbigcat.github.io/post/liang-ning-chan-pin-si-wei-30-jiang-bi-ji</id>
         <link href="https://ffbigcat.github.io/post/liang-ning-chan-pin-si-wei-30-jiang-bi-ji">
         </link>
