@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-02-03T14:22:13.229Z</updated>
+    <updated>2020-02-10T06:12:05.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -54,6 +54,7 @@
 <li>精准医疗动态：精准医疗国内外最新发展动态</li>
 <li>科研动力：EndNote使用方法、科研实验方法、SCI论文写作方法和投稿经验、科研软件和科研资源</li>
 <li>生信技能树</li>
+<li>生信宝典</li>
 <li>生信媛</li>
 </ul>
 <h3 id="python语言相关"><strong>python语言相关</strong></h3>
