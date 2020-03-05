@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-03-03T15:57:56.525Z</updated>
+    <updated>2020-03-05T14:38:47.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, ffbigcat&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[生物信息学习资源]]></title>
-        <id>https://ffbigcat.github.io/post/sheng-wu-xin-xi-zi-xue-zi-liao</id>
-        <link href="https://ffbigcat.github.io/post/sheng-wu-xin-xi-zi-xue-zi-liao">
+        <id>https://ffbigcat.github.io/post/sheng-wu-xin-xi-zi-xue-zi-liao/</id>
+        <link href="https://ffbigcat.github.io/post/sheng-wu-xin-xi-zi-xue-zi-liao/">
         </link>
         <updated>2020-02-03T13:05:58.000Z</updated>
         <content type="html"><![CDATA[<h3 id="生信相关博客"><strong>生信相关博客</strong></h3>
@@ -93,8 +93,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[笔记-梁宁-增长思维30讲]]></title>
-        <id>https://ffbigcat.github.io/post/bi-ji-liang-ning-zeng-chang-si-wei-30-jiang</id>
-        <link href="https://ffbigcat.github.io/post/bi-ji-liang-ning-zeng-chang-si-wei-30-jiang">
+        <id>https://ffbigcat.github.io/post/bi-ji-liang-ning-zeng-chang-si-wei-30-jiang/</id>
+        <link href="https://ffbigcat.github.io/post/bi-ji-liang-ning-zeng-chang-si-wei-30-jiang/">
         </link>
         <updated>2020-02-03T12:58:10.000Z</updated>
         <content type="html"><![CDATA[<h3 id="00-发刊词">00 发刊词</h3>
@@ -271,8 +271,8 @@ e.g.茑屋书店、瓜子二手车</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[笔记-梁宁-产品思维30讲]]></title>
-        <id>https://ffbigcat.github.io/post/liang-ning-chan-pin-si-wei-30-jiang-bi-ji</id>
-        <link href="https://ffbigcat.github.io/post/liang-ning-chan-pin-si-wei-30-jiang-bi-ji">
+        <id>https://ffbigcat.github.io/post/liang-ning-chan-pin-si-wei-30-jiang-bi-ji/</id>
+        <link href="https://ffbigcat.github.io/post/liang-ning-chan-pin-si-wei-30-jiang-bi-ji/">
         </link>
         <updated>2019-12-26T03:54:46.000Z</updated>
         <content type="html"><![CDATA[<h3 id="01-发刊词-产品能力是每个人的底层能力">01 发刊词-产品能力是每个人的底层能力</h3>
@@ -472,8 +472,8 @@ IP就是情感触发，就是场景、流量</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[读博那点儿事]]></title>
-        <id>https://ffbigcat.github.io/post/du-bo-na-dian-er-shi</id>
-        <link href="https://ffbigcat.github.io/post/du-bo-na-dian-er-shi">
+        <id>https://ffbigcat.github.io/post/du-bo-na-dian-er-shi/</id>
+        <link href="https://ffbigcat.github.io/post/du-bo-na-dian-er-shi/">
         </link>
         <updated>2019-12-25T11:40:36.000Z</updated>
         <content type="html"><![CDATA[<p>读研的时候，有时会想，读博有什么意义，可以为我的职业生涯带来些什么？最近看到一篇文章，2019年1月发表在Nature杂志上，名为Why earning a PhD is an advantage in today’s industry job market。作者是一名博士，在读期间，一位职业顾问曾经对他说“工业界并不需要博士，博士的学历对于公司来讲大材小用”。再加上一些博士和博士后对他抱怨找不到工业界的工作，学术界的坑位也越来越少，作者一度怀疑自己读博的决定是否正确，但后来还是主动拓宽人脉，积极寻找工作，最终找到了一份满意的工作，当然也归功于博士学历。招聘经理对他说，公司还是很看重博士学历的，这代表着专家和创新者，博士期间培养的快速学习的能力、坦然面对失败的心态、解决复杂问题的能力都是很重要的素质。</p>
