@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-03-05T16:34:50.266Z</updated>
+    <updated>2020-03-19T06:26:39.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://ffbigcat.github.io/images/avatar.png</logo>
     <icon>https://ffbigcat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ffbigcat&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Your Own Time Zone]]></title>
+        <id>https://ffbigcat.github.io/post/your-own-time-zone/</id>
+        <link href="https://ffbigcat.github.io/post/your-own-time-zone/">
+        </link>
+        <updated>2020-03-19T02:12:16.000Z</updated>
+        <content type="html"><![CDATA[<p>by an unknown author</p>
+<p>New York is three hours ahead of California,<br>
+But that doesn't make California slow.<br>
+Someone graduated at the age of 22,<br>
+But waited five years before securing a good job.<br>
+Some became a CEO at 25,<br>
+And died at 50.<br>
+While another became a CEO at 50,<br>
+And lived to 90 years.<br>
+Someone is still single,<br>
+While someone else got married.<br>
+Obama retired at 55,<br>
+And Trump started at 70.<br>
+Everyone in this world works based on their time zone.<br>
+People around you might seem to be ahead of you,<br>
+And some might seem to be behind you.<br>
+But everyone is running their own race, in their own time.<br>
+Do not envy them and do not mock them.<br>
+They are in their time zone, and you are in yours.<br>
+Life is about waiting for the right moment to act.<br>
+So, relax.<br>
+You're not late.<br>
+You're not early.<br>
+You are very much on time.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实习的正确姿势]]></title>
         <id>https://ffbigcat.github.io/post/shi-xi-de-zheng-que-zi-tai/</id>
