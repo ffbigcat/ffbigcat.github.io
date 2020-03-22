@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-03-22T06:30:31.166Z</updated>
+    <updated>2020-03-22T15:20:23.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -10,6 +10,76 @@
     <logo>https://ffbigcat.github.io/images/avatar.png</logo>
     <icon>https://ffbigcat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ffbigcat&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[面试技巧]]></title>
+        <id>https://ffbigcat.github.io/post/mian-shi-ji-qiao/</id>
+        <link href="https://ffbigcat.github.io/post/mian-shi-ji-qiao/">
+        </link>
+        <updated>2020-03-22T14:26:29.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="理解面试">理解面试</h2>
+<ul>
+<li>从雇主角度，主要考虑三个因素：</li>
+</ul>
+<ol>
+<li>能不能做好工作</li>
+<li>是否想和他一起工作</li>
+<li>能不能工作比较长的时间</li>
+</ol>
+<ul>
+<li>相互观察</li>
+<li>用人单位决定你的去留</li>
+<li>HR筛简历看学历、学校、关键字匹配</li>
+</ul>
+<h2 id="面试前的准备">面试前的准备</h2>
+<ul>
+<li>尽可能地了解对方（企业/部门文化、面试官等）</li>
+<li>根据岗位要求有的放矢地准备</li>
+<li>带上自己的简历</li>
+<li>根据部门风格决定穿着</li>
+<li>准时，不要迟到，过早也不好</li>
+<li>不卑不亢</li>
+<li>切忌态度散漫</li>
+</ul>
+<h2 id="自我介绍的技巧">自我介绍的技巧</h2>
+<ul>
+<li>简洁</li>
+<li>自信但不狂妄</li>
+<li>展现自己的特点</li>
+</ul>
+<h2 id="面试问题的应答技巧">面试问题的应答技巧</h2>
+<p><strong>硬技能</strong></p>
+<ul>
+<li>相信自己可以解决，没有思路可以让面试官提示</li>
+<li>明确面试官的问题，不懂就问</li>
+<li>要自信，不要因为之前的工作简单而觉得微不足道</li>
+<li>尽力解决后不会，请求再换一个问题</li>
+</ul>
+<p><strong>软技能</strong></p>
+<ul>
+<li>为什么离开上家公司？<br>
+不要表现负能量或情绪化的抱怨，顺便夸赞下家公司</li>
+<li>个人优点/缺点？<br>
+特点/可正可负的缺点</li>
+<li>职业规划？<br>
+短期规划和长期规划</li>
+<li>遇到不配合的人怎么办？</li>
+</ul>
+<h2 id="如何应对预料不到的情况">如何应对预料不到的情况</h2>
+<ul>
+<li>面试官的态度不好<br>
+做好自己，控制不了他人</li>
+<li>面试官否定你工作的意义<br>
+工作特点决定了你工作的意义</li>
+</ul>
+<h2 id="最后提问阶段的机会把握">最后提问阶段的机会把握</h2>
+<ul>
+<li>表现出好奇、感兴趣</li>
+<li>面试官在做什么？了解部门的结构</li>
+</ul>
+<p>Reference：<br>
+<a href="https://www.zhihu.com/lives/906569183528120320">知乎live - 资深面试官教你面试技巧-程墨Morgan</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[医药领域信息资源]]></title>
         <id>https://ffbigcat.github.io/post/yi-yao-ling-yu-xin-xi-zi-yuan/</id>
