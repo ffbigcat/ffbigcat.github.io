@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-04-19T14:53:53.782Z</updated>
+    <updated>2020-04-19T14:58:54.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -141,137 +141,6 @@ Clinical Data Acquisition Standards Harmonization (CDASH) standards</li>
 <h2 id="terms">Terms</h2>
 <p><strong>ICH</strong>(The International Conference For Harmonization Of Technical Requirements For Pharmaceuticals For Human Use) 人用药物注册技术要求国际协调理事会<br>
 <strong>MedDRA</strong> 医学标准术语集</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[临床试验之临床试验数据管理]]></title>
-        <id>https://ffbigcat.github.io/post/lin-chuang-shi-yan-zhi-lin-chuang-shi-yan-shu-ju-guan-li/</id>
-        <link href="https://ffbigcat.github.io/post/lin-chuang-shi-yan-zhi-lin-chuang-shi-yan-shu-ju-guan-li/">
-        </link>
-        <updated>2020-04-19T14:32:09.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="outline">Outline</h2>
-<p>简要介绍<br>
-阶段划分&amp;方法介绍<br>
-软件介绍<br>
-合规要求</p>
-<h2 id="definition">Definition</h2>
-<p>A critical phase in clinical research, which leads to generation of high-quality, reliable, and statistically sound data from clinical trails.</p>
-<h2 id="phases-methodology">Phases &amp; Methodology</h2>
-<p>CDM activities are normally categorized into three different stages:</p>
-<ul>
-<li>Study start-up<br>
-CRF and protocol alignment<br>
-Data management plan, CRF annotation<br>
-Database design/Edit check programming, data views</li>
-<li>Study conduct<br>
-Double data entry<br>
-Data validation &amp; cleaning, query resolution<br>
-MedDRA coding, SAE(Serious Adverse Event) reconciliation</li>
-<li>Study closeout<br>
-Database lock</li>
-</ul>
-<p>QC &amp; documentation (study master data management file)</p>
-<h3 id="key-consideration">Key consideration</h3>
-<p><strong>Case Report Form(CRF) Finaliztion</strong></p>
-<ul>
-<li>Design based on study-specific requirements<br>
-Study protocol and applicable regulatory requirements</li>
-<li>Facilitate the end users in data transcription</li>
-<li>Trivial inputs are not ignored<br>
-units, time clock(24hrs or 12hrs. suffix with a.m./p.m.), data format etc.</li>
-<li>Incorporation of relevant inputs from all the team members</li>
-<li>CRF completion guidelines(CCGs); instructions and prompts</li>
-<li>Use of standard pages</li>
-</ul>
-<p><strong>Data Management Plan</strong><br>
-Captures all the methods and measures carried out to handle the data management project to achieve consistent and credible data amenable to statistical analysis</p>
-<p><strong>Annotation of Case Report Form(CRF)</strong></p>
-<ul>
-<li>Depicts the mapping between the database and CRF fields</li>
-<li>Assists in programming</li>
-<li>Provides metadata for the study</li>
-<li>Reflects applicable Standards for Data Acquisition &amp; Submission<br>
-For example:<br>
-CDASH(Clinical Data Acquisition Standards Harmonization)<br>
-CDISC(Clinical Data Interchange Standards Consort)<br>
-SDTM(Study Data Tabulation Model)</li>
-</ul>
-<p><strong>Database</strong></p>
-<ul>
-<li>Database, a clinical software application<br>
-built to facilitate the CDM tasks to carry out multiple studies</li>
-<li>Database, serves as the warehouse for the data<br>
-a structure set of rows and columns</li>
-<li>Database screens should be designed so that they are an exact replica of paper CRFs, to facilitate fast data entry with minimum errors</li>
-</ul>
-<p><strong>Edit Checks</strong><br>
-Programming and Validation of Data</p>
-<ul>
-<li>Edit checks: programmed in the database for data cleaning</li>
-<li>Faciliate detection of possible errors in the data</li>
-<li>In accordance with the requirements mentioned in the protocol</li>
-<li>Programs are written according to the logic condition mentioned in the Data Validation Plan(DVP)<br>
-For example:<br>
-Range checks<br>
-Missing data<br>
-Data inconsistency checks<br>
-Out of logical checks</li>
-</ul>
-<p><strong>Data Entry</strong></p>
-<ul>
-<li>Done acording to the 'Data Entry Guidlines' prepared in consultant with study medical monitor</li>
-<li>Double Data Entry (DDE) for paper CRF<br>
-the data transcribed on a form is captured twice by different entry operators and programmatically compared</li>
-<li>For e-CRFs, data directly entered in the database at the study site<br>
-Reduce the chances of errors and discrepancies resolution is faster</li>
-</ul>
-<p><strong>Discrepancy Management</strong></p>
-<ul>
-<li>Includes reviewing of discrepancies and resolving them by seeking the resolution with documentary proof</li>
-<li>Updation of resolutions in the database by designated CDM personnel</li>
-<li>Closure/resolution of all queries before database lock</li>
-<li>Main indicators for good CDM practices; discrepancy management<br>
-Maintaining the TAT(Turn Around Time)<br>
-Avoiding Query Aging</li>
-</ul>
-<p><strong>Database Lock</strong></p>
-<ul>
-<li>Database lock is:<br>
-prevent unauthorized data manipulation<br>
-comply with the regulatory requirement for data security</li>
-<li>Database lock must not be done unless all the CDM processes have been completed<br>
-Data entry - done<br>
-Queries - resolved<br>
-Data coding - done<br>
-Quality check of all the activities - done<br>
-SAE Reconciliation - done<br>
-All relevent documentation complete</li>
-</ul>
-<p><strong>Data Extraction</strong><br>
-Provides the data in the desired format for the purpose of QC, analysis, data transfer or to meet any other requirement for the study</p>
-<h2 id="software-solution">Software Solution</h2>
-<p>Some widely used solutions</p>
-<ul>
-<li>Commercially available are:<br>
-Medidata<br>
-Phase Forward<br>
-Oracle Clinical</li>
-<li>Open Source solutions:<br>
-PhOSCo<br>
-GCP BASE<br>
-EpiData</li>
-</ul>
-<h2 id="regulatory-perspective">Regulatory Perspective</h2>
-<p>Major regulations/guidelines/best practices apart from Good Clinical Practices (GCP)<br>
-Code of Federal Regulations (CFR), 21CRF Part 11: demands use of validated systems<br>
-CDISC(Clinical Data Interchange Standards Consort) provides standards to support acquisition, exchange, submission, and archival of trial data and metadata<br>
-Following are the most relevent:<br>
-Study Data Tabulation Model Implementation Guide for Human Clinical Trails (SDTMIG)<br>
-Clinical Data Acquisition Standards Harmonization (CDASH) standards<br>
-Good Clinical Data Management Practice (GCDMP) by Society for Clinical Data Management (SCDM)</p>
-<h2 id="terms">Terms</h2>
-<p>ICH(The International Conference For Harmonization Of Technical Requirements For Pharmaceuticals For Human Use) 人用药物注册技术要求国际协调理事会<br>
-MedDRA 医学标准术语集</p>
 ]]></content>
     </entry>
     <entry>
