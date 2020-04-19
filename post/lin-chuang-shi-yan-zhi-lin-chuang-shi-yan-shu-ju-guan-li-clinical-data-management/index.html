@@ -1,0 +1,328 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>临床试验之临床试验数据管理(Clinical Data Management) | ffbigcat&#39;s blog</title>
+<meta name="description" content="怕什么真理无穷，进一寸有一寸的欢喜" />
+<link rel="shortcut icon" href="https://ffbigcat.github.io/favicon.ico?v=1587308029408">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://ffbigcat.github.io/styles/main.css">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://ffbigcat.github.io">
+  <img class="avatar" src="https://ffbigcat.github.io/images/avatar.png?v=1587308029408" alt="">
+  </a>
+  <h1 class="site-title">
+    ffbigcat&#39;s blog
+  </h1>
+  <p class="site-description">
+    怕什么真理无穷，进一寸有一寸的欢喜
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          Home
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          Archives
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          Tags
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          About
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              临床试验之临床试验数据管理(Clinical Data Management)
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-04-19
+              </span>
+              <span>
+                5 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <h2 id="outline">Outline</h2>
+<p>简要介绍<br>
+阶段划分&amp;方法介绍<br>
+软件介绍<br>
+合规要求</p>
+<h2 id="definition">Definition</h2>
+<p>A critical phase in clinical research, which leads to generation of high-quality, reliable, and statistically sound data from clinical trails.</p>
+<h2 id="phases-methodology">Phases &amp; Methodology</h2>
+<p>CDM activities are normally categorized into three different stages:</p>
+<ul>
+<li>Study start-up<br>
+CRF and protocol alignment<br>
+Data management plan, CRF annotation<br>
+Database design/Edit check programming, data views</li>
+<li>Study conduct<br>
+Double data entry<br>
+Data validation &amp; cleaning, query resolution<br>
+MedDRA coding, SAE(Serious Adverse Event) reconciliation</li>
+<li>Study closeout<br>
+Database lock</li>
+</ul>
+<p>QC &amp; documentation (study master data management file)</p>
+<h3 id="key-consideration">Key consideration</h3>
+<p><strong>Case Report Form(CRF) Finaliztion</strong></p>
+<ul>
+<li>Design based on study-specific requirements<br>
+Study protocol and applicable regulatory requirements</li>
+<li>Facilitate the end users in data transcription</li>
+<li>Trivial inputs are not ignored<br>
+units, time clock(24hrs or 12hrs. suffix with a.m./p.m.), data format etc.</li>
+<li>Incorporation of relevant inputs from all the team members</li>
+<li>CRF completion guidelines(CCGs); instructions and prompts</li>
+<li>Use of standard pages</li>
+</ul>
+<p><strong>Data Management Plan</strong><br>
+Captures all the methods and measures carried out to handle the data management project to achieve consistent and credible data amenable to statistical analysis</p>
+<p><strong>Annotation of Case Report Form(CRF)</strong></p>
+<ul>
+<li>Depicts the mapping between the database and CRF fields</li>
+<li>Assists in programming</li>
+<li>Provides metadata for the study</li>
+<li>Reflects applicable Standards for Data Acquisition &amp; Submission<br>
+For example:<br>
+CDASH(Clinical Data Acquisition Standards Harmonization)<br>
+CDISC(Clinical Data Interchange Standards Consort)<br>
+SDTM(Study Data Tabulation Model)</li>
+</ul>
+<p><strong>Database</strong></p>
+<ul>
+<li>Database, a clinical software application<br>
+built to facilitate the CDM tasks to carry out multiple studies</li>
+<li>Database, serves as the warehouse for the data<br>
+a structure set of rows and columns</li>
+<li>Database screens should be designed so that they are an exact replica of paper CRFs, to facilitate fast data entry with minimum errors</li>
+</ul>
+<p><strong>Edit Checks</strong><br>
+Programming and Validation of Data</p>
+<ul>
+<li>Edit checks: programmed in the database for data cleaning</li>
+<li>Faciliate detection of possible errors in the data</li>
+<li>In accordance with the requirements mentioned in the protocol</li>
+<li>Programs are written according to the logic condition mentioned in the Data Validation Plan(DVP)<br>
+For example:<br>
+Range checks<br>
+Missing data<br>
+Data inconsistency checks<br>
+Out of logical checks</li>
+</ul>
+<p><strong>Data Entry</strong></p>
+<ul>
+<li>Done acording to the 'Data Entry Guidlines' prepared in consultant with study medical monitor</li>
+<li>Double Data Entry (DDE) for paper CRF<br>
+the data transcribed on a form is captured twice by different entry operators and programmatically compared</li>
+<li>For e-CRFs, data directly entered in the database at the study site<br>
+Reduce the chances of errors and discrepancies resolution is faster</li>
+</ul>
+<p><strong>Discrepancy Management</strong></p>
+<ul>
+<li>Includes reviewing of discrepancies and resolving them by seeking the resolution with documentary proof</li>
+<li>Updation of resolutions in the database by designated CDM personnel</li>
+<li>Closure/resolution of all queries before database lock</li>
+<li>Main indicators for good CDM practices; discrepancy management<br>
+Maintaining the TAT(Turn Around Time)<br>
+Avoiding Query Aging</li>
+</ul>
+<p><strong>Database Lock</strong></p>
+<ul>
+<li>Database lock is:<br>
+prevent unauthorized data manipulation<br>
+comply with the regulatory requirement for data security</li>
+<li>Database lock must not be done unless all the CDM processes have been completed<br>
+Data entry - done<br>
+Queries - resolved<br>
+Data coding - done<br>
+Quality check of all the activities - done<br>
+SAE Reconciliation - done<br>
+All relevent documentation complete</li>
+</ul>
+<p><strong>Data Extraction</strong><br>
+Provides the data in the desired format for the purpose of QC, analysis, data transfer or to meet any other requirement for the study</p>
+<h2 id="software-solution">Software Solution</h2>
+<p>Some widely used solutions</p>
+<ul>
+<li>Commercially available are:<br>
+Medidata<br>
+Phase Forward<br>
+Oracle Clinical</li>
+<li>Open Source solutions:<br>
+PhOSCo<br>
+GCP BASE<br>
+EpiData</li>
+</ul>
+<h2 id="regulatory-perspective">Regulatory Perspective</h2>
+<p>Major regulations/guidelines/best practices apart from Good Clinical Practices (GCP)</p>
+<ul>
+<li>Code of Federal Regulations (CFR), 21CRF Part 11: demands use of validated systems</li>
+<li>CDISC(Clinical Data Interchange Standards Consort) provides standards to support acquisition, exchange, submission, and archival of trial data and metadata</li>
+<li>Following are the most relevent:<br>
+Study Data Tabulation Model Implementation Guide for Human Clinical Trails (SDTMIG)<br>
+Clinical Data Acquisition Standards Harmonization (CDASH) standards</li>
+<li>Good Clinical Data Management Practice (GCDMP) by Society for Clinical Data Management (SCDM)</li>
+</ul>
+<h2 id="terms">Terms</h2>
+<p><strong>ICH</strong>(The International Conference For Harmonization Of Technical Requirements For Pharmaceuticals For Human Use) 人用药物注册技术要求国际协调理事会<br>
+<strong>MedDRA</strong> 医学标准术语集</p>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#outline">Outline</a></li>
+<li><a href="#definition">Definition</a></li>
+<li><a href="#phases-methodology">Phases &amp; Methodology</a>
+<ul>
+<li><a href="#key-consideration">Key consideration</a></li>
+</ul>
+</li>
+<li><a href="#software-solution">Software Solution</a></li>
+<li><a href="#regulatory-perspective">Regulatory Perspective</a></li>
+<li><a href="#terms">Terms</a></li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://ffbigcat.github.io/post/lin-chuang-shi-yan-zhi-lin-chuang-shi-yan-shu-ju-guan-li/">
+              <h3 class="post-title">
+                临床试验之临床试验数据管理
+              </h3>
+            </a>
+          </div>
+        
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'ad2064e1cbaec38356ef',
+    clientSecret: 'd1e9cb3d4431333f63d6ae76b3a70fb0f281f2b4',
+    repo: 'ffbigcat.github.io',
+    owner: 'ffbigcat',
+    admin: ['ffbigcat'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
+  <a class="rss" href="https://ffbigcat.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+<script>
+  hljs.initHighlightingOnLoad()
+
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
+
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
+
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
+
+</script>
+
+      </div>
+    </div>
+  </body>
+</html>
