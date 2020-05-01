@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-05-01T15:20:46.673Z</updated>
+    <updated>2020-05-01T15:54:59.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -232,20 +232,28 @@ Clinical Data Acquisition Standards Harmonization (CDASH) standards</li>
 <li>药渡</li>
 <li>罗湿兄</li>
 <li>医药魔方</li>
+<li>医学美图</li>
 </ul>
 <h3 id="网站"><strong>网站</strong></h3>
 <p><a href="https://www.lek.com/zh-hant/lek-china">LEK中国</a><br>
 <a href="https://www.zs.com/blogs">ZS咨询</a><br>
+<a href="https://www.iqvia.com/zh-cn/locations/china">IQVIA中国</a><br>
 <a href="https://www.msdmanuals.cn/">默沙东诊疗手册</a><br>
-<a href="https://www.medscape.com/">Medscape</a></p>
+<a href="https://www.medscape.com/">Medscape</a><br>
+<a href="https://www.evaluate.com/">EvaluatePharma</a></p>
+<h3 id="数据库"><strong>数据库</strong></h3>
+<p>Thomson Reuters - Cortellis</p>
 <h3 id="视频"><strong>视频</strong></h3>
 <p><a href="https://space.bilibili.com/3938491">Osmosis医学视频</a>：15分钟左右的医学短视频，每个视频围绕一个疾病，从生理机制、病理病生，再到内科的临床表现、诊断治疗等一起串讲<br>
+<a href="https://web.duke.edu/vaps/BodyDisease/">杜克大学-身体疾病介绍</a><br>
 <a href="https://www.bilibili.com/video/av84938685?p=1">医学R语言基础与数据清洗</a><br>
 <a href="https://www.bilibili.com/video/av92253848?p=1">R语言与高级医学统计学</a></p>
 <h3 id="书"><strong>书</strong></h3>
 <ul>
 <li>The Little SAS Book</li>
 <li>医药临床研究中的数据管理</li>
+<li>柳叶刀临床研究基本概念/Essential Concepts in Clinical Research</li>
+<li></li>
 </ul>
 ]]></content>
     </entry>
