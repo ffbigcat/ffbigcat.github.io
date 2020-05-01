@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-04-27T02:56:17.987Z</updated>
+    <updated>2020-05-01T15:18:17.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -343,14 +343,11 @@ e.g. 借机和其他部门的同事进行交流，多和同公司各部门的实
         <updated>2020-02-03T13:05:58.000Z</updated>
         <content type="html"><![CDATA[<h3 id="生信相关博客"><strong>生信相关博客</strong></h3>
 <p><a href="http://blog.qiubio.com:8080/">糗世界</a>：Circos教程、R/Bioconductor、序列比对与NGS<br>
-<a href="http://blog.csdn.net/u014801157">R语言与生物信息学</a><br>
 <a href="http://boyun.sh.cn/bio/">博耘生物</a><br>
-<a href="http://www.zilhua.com/">生物日志|鸣一道</a>：生物信息分析教程、R画图<br>
 <a href="http://yixf.name/">Yixf's blog</a><br>
 <a href="http://www.bio-info-trainee.com/">生信菜鸟团</a><br>
 <a href="http://www.bio-info-club.com/">生信客部落</a><br>
 <a href="http://qinqianshan.com/">Sam's Note</a><br>
-<a href="http://www.iwhgao.com/">rabbit gao's blog</a>：生物信息学基础知识，主要包括Linux常用操作命令、基本数理统计知识、Perl语言/R语言/Python语言编程、生物信息学分析规范以及其它生物信息学专题等<br>
 <a href="http://tiramisutes.github.io/">hope博客</a><br>
 <a href="http://guangchuangyu.github.io/">Y叔/余光创博客</a><br>
 <a href="https://kaopubear.top/">思考问题的熊</a></p>
@@ -371,7 +368,8 @@ e.g. 借机和其他部门的同事进行交流，多和同公司各部门的实
 <a href="https://bioinformatics.ca/">加拿大生信研讨会</a><br>
 <a href="https://qcb.ucla.edu/collaboratory-2/workshops/">UCLA生信教程</a><br>
 <a href="https://openbiox.org/">openbiox社区</a><br>
-<a href="https://www.csc.fi/web/training/-/scrnaseq">单细胞RNA-seq分析</a></p>
+<a href="https://www.csc.fi/web/training/-/scrnaseq">单细胞RNA-seq分析</a><br>
+<a href="https://www.biostarhandbook.com/">Biostar Handbook</a></p>
 <h3 id="微信公众号"><strong>微信公众号</strong></h3>
 <ul>
 <li>测序中国：基因行业</li>
