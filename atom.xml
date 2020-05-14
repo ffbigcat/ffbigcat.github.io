@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ffbigcat.github.io</id>
     <title>ffbigcat&apos;s blog</title>
-    <updated>2020-05-07T06:42:44.859Z</updated>
+    <updated>2020-05-14T03:37:42.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ffbigcat.github.io"/>
     <link rel="self" href="https://ffbigcat.github.io/atom.xml"/>
@@ -240,7 +240,9 @@ Clinical Data Acquisition Standards Harmonization (CDASH) standards</li>
 <a href="https://www.iqvia.com/zh-cn/locations/china">IQVIA中国</a><br>
 <a href="https://www.msdmanuals.cn/">默沙东诊疗手册</a><br>
 <a href="https://www.medscape.com/">Medscape</a><br>
-<a href="https://www.evaluate.com/">EvaluatePharma</a></p>
+<a href="https://www.evaluate.com/">EvaluatePharma</a><br>
+<a href="https://www.statpearls.com/">StatPearls</a><br>
+<a href="https://www.medtronic.com/cn-zh/your-health.html">美敦力</a></p>
 <h3 id="数据库"><strong>数据库</strong></h3>
 <p>Thomson Reuters - Cortellis</p>
 <h3 id="视频"><strong>视频</strong></h3>
@@ -358,6 +360,7 @@ e.g. 借机和其他部门的同事进行交流，多和同公司各部门的实
 <a href="http://yixf.name/">Yixf's blog</a><br>
 <a href="http://www.bio-info-trainee.com/">生信菜鸟团</a><br>
 <a href="http://www.bio-info-club.com/">生信客部落</a><br>
+<a href="http://www.iwhgao.com/">deangao's blog</a>生物信息学基础知识，主要包括Linux常用操作命令、基本数理统计知识、Perl语言/R语言/Python语言编程、生物信息学分析规范以及其它生物信息学专题等<br>
 <a href="http://qinqianshan.com/">Sam's Note</a><br>
 <a href="http://tiramisutes.github.io/">hope博客</a><br>
 <a href="http://guangchuangyu.github.io/">Y叔/余光创博客</a><br>
@@ -393,8 +396,8 @@ e.g. 借机和其他部门的同事进行交流，多和同公司各部门的实
 <li>精准医疗动态：精准医疗国内外最新发展动态</li>
 <li>科研动力：EndNote使用方法、科研实验方法、SCI论文写作方法和投稿经验、科研软件和科研资源</li>
 <li>小张聊科研</li>
-<li>生信技能树</li>
-<li>生信宝典</li>
+<li>生信技能树：特别推荐</li>
+<li>生信宝典：特别推荐</li>
 <li>生信媛</li>
 </ul>
 <h3 id="python语言相关"><strong>python语言相关</strong></h3>
